@@ -2,4 +2,4 @@
 [ "import" ] @keyword
 (string) @variable.builtin
 (comment) @comment
-(generated_c) @generated
+(generated_c) @type
