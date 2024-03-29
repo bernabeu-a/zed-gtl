@@ -1,4 +1,4 @@
 
 [ "import" ] @keyword
-(string) @variable.builtin
+(string_fragment) @variable.builtin
 (comment) @comment
