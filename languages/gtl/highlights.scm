@@ -1,4 +1,4 @@
 
 [ "import" ] @keyword
-(string) @number
-; (comment) @comment
+(string) @variable.builtin
+(comment) @comment
