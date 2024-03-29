@@ -1,5 +1,4 @@
 
 [ "import" ] @keyword
-(string) @variable.builtin
-(comment) @comment
-(generated_c) @type
+(string) @number
+; (comment) @comment
