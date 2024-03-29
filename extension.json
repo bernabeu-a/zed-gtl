@@ -1,0 +1,13 @@
+{
+    "name": "GTL Syntax",
+    "version": "0.0.1",
+    "authors": ["Antoine Bernabeu"],
+    "description": "Generic Syntax Highlighting for GTL",
+    "repository": "https://github.com/bernabeu-a/zed-gtl",
+    "languages": {
+        "gtl": "languages/gtl"
+    },
+    "grammars": {
+        "gtl": "grammars/gtl.wasm"
+    }
+}
