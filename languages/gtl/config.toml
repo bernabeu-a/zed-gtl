@@ -1,4 +1,4 @@
-name = "GTL"
+name = "Gtl"
 grammar = "gtl"
 path_suffixes = ["goilTemplate"]
 line_comments = ["# "]

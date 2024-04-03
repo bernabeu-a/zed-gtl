@@ -5,7 +5,7 @@
     "description": "Generic Syntax Highlighting for GTL",
     "repository": "https://github.com/bernabeu-a/zed-gtl",
     "languages": {
-        "gtl": "languages/gtl"
+        "Gtl": "languages/gtl"
     },
     "grammars": {
         "gtl": "grammars/gtl.wasm"
